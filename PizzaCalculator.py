@@ -6,4 +6,4 @@ sales_tax = subtotal * tax_rate
 total = subtotal + sales_tax
 print("The total cost is $", total)
 print("This includes $", subtotal, "for the pizza and")
-print("$", sales_tax, "in sales tax.")
+print("$", sales_tax, "in sales tax")
